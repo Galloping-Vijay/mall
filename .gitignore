@@ -3,6 +3,9 @@
 /vendor
 *.log
 thinkphp
+/runtime
+
+
 .env
 .DS_Store
 node_modules/
