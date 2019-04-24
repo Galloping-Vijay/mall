@@ -5,6 +5,7 @@
 thinkphp
 /runtime
 
+webhooks.php
 
 .env
 .DS_Store
