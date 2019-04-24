@@ -1,11 +1,14 @@
-vendor/
+/.idea
+/.vscode
+/vendor
+*.log
+thinkphp
+.env
+.DS_Store
 node_modules/
 npm-debug.log
-
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
+.htaccess
+.user.ini
 # Laravel 5 & Lumen specific
 public/storage
 public/hot
