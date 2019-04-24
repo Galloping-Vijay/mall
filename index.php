@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 
 // 检测PHP环境
-//权限问题
+//好气啊
 if(version_compare(PHP_VERSION,'5.5.9','<'))  die('require PHP > 5.5.9 !');
 //error_reporting(E_ALL ^ E_NOTICE);//显示除去 E_NOTICE 之外的所有错误信息
 error_reporting(E_ERROR | E_WARNING | E_PARSE);//报告运行时错误
